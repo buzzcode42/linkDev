@@ -182,7 +182,7 @@ section article div h3 {
 }
 
 input:checked+.slider {
-  background-color: #57269f;
+  background-color: rgb(255, 79, 82);
 }
 
 input:checked+.slider:before {
