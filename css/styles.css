@@ -61,7 +61,7 @@ section article {
   display: flex;
   justify-items: center;
   flex-wrap: wrap;
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -125,6 +125,10 @@ section article div h3 {
 }
 
 .hashnode {
+  background: rgb(111, 139, 231);
+}
+
+.youtube {
   background: rgb(111, 139, 231);
 }
 
