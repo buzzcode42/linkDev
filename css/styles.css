@@ -101,7 +101,7 @@ section article div h3 {
 }
 
 .github {
-  background: linear-gradient(58deg, #722CD8 8%, #9A56FD 98%);
+  background: #333;
 }
 
 .instagram {
@@ -109,31 +109,31 @@ section article div h3 {
 }
 
 .twitter {
-  background: rgb(111, 139, 231);
+  background: rgb(29, 161, 242);
 }
 
 .linkedin {
-  background: linear-gradient(90deg, rgba(111, 139, 231, 1) 0%, rgba(47, 41, 157, 1) 100%);
+  background: rgb(40, 103, 178);
 }
 
 .facebook {
-  background: rgb(111, 139, 231);
+  background: rgb(66, 103, 178);
 }
 
 .dev {
-  background: rgb(111, 139, 231);
+  background: #0a0a0a;
 }
 
 .hashnode {
-  background: rgb(111, 139, 231);
+  background: rgba(59, 130, 246);
 }
 
 .youtube {
-  background: rgb(111, 139, 231);
+  background: rgb(255, 0, 0);
 }
 
 .site {
-  background: rgb(111, 139, 231);
+  background: rgb(116, 92, 160);
 }
 
 .theme-switch-wrap {
