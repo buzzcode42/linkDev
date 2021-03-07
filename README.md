@@ -1,5 +1,5 @@
 <h1 align="center">
-🔗<br>LinkDev
+<br>LinkDev
 </h1>
 
 <h4 align="center">
